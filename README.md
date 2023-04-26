@@ -6,7 +6,7 @@ a) BabyAGI with langchain. -  BabyAGI_LangChain.ipynb
 
 b) AgentGPT - AGENTgpt.ipynb
 
-c) Jarvis hugginggpt live access demo - come up with innovative task - do not copy paste - demo video  upload
+c) Jarvis hugginggpt live access demo - come up with innovative task - optional assignment because of traffic.
 
 d) Visual ChatGPT
 
