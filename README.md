@@ -14,7 +14,7 @@ e)  OpenAI chat with excel - demo video upload
 
 f) Adobe Firefly demo
 
-g) semantic kernel picka complicated app and build using semantic kernel - 
+g) semantic kernel picka complicated app and build using semantic kernel - semantic_kernel_.ipynb
  
 
 h) write an essay on best practices for prompt engineering in medium -    
