@@ -1,6 +1,6 @@
 # Experiment_Demo-GPT
 
-Demonstrate GPT with colabs.do not copy paste exact task. 
+Demonstrate GPT with colabs.
 
 a) BabyAGI with langchain
 
