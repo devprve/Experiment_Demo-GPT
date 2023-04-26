@@ -4,7 +4,7 @@ Demonstrate GPT with colabs.
 
 a) BabyAGI with langchain. -  BabyAGI_LangChain.ipynb
 
-b) AgentGPT
+b) AgentGPT - AGENTgpt.ipynb
 
 c) Jarvis hugginggpt live access demo - come up with innovative task - do not copy paste - demo video  upload
 
