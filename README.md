@@ -8,7 +8,7 @@ b) AgentGPT - AGENTgpt.ipynb
 
 c) Jarvis hugginggpt live access demo - come up with innovative task - optional assignment because of traffic.
 
-d) Visual ChatGPT
+d) Visual ChatGPT - visualchatGPTwithoutput.ipynb 
 
 e)  OpenAI chat with excel - demo video upload
 
