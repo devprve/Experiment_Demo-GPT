@@ -2,7 +2,7 @@
 
 Demonstrate GPT with colabs.
 
-a) BabyAGI with langchain
+a) BabyAGI with langchain. -  BabyAGI_LangChain.ipynb
 
 b) AgentGPT
 
