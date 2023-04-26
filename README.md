@@ -10,7 +10,8 @@ c) Jarvis hugginggpt live access demo - come up with innovative task - optional 
 
 d) Visual ChatGPT - visualchatGPTwithoutput.ipynb 
 
-e)  OpenAI chat with excel - demo video upload
+e)  OpenAI chat with excel - https://drive.google.com/file/d/1_qA-p2-NG-BAuIKKluRcBISXQ0iVrCO-/view?usp=sharing
+
 
 f) Adobe Firefly demo
 
