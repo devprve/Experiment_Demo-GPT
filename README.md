@@ -17,4 +17,6 @@ f) Adobe Firefly demo
 g) semantic kernel picka complicated app and build using semantic kernel - 
  
 
-h) write an essay on best practices for prompt engineering in medium -
+h) write an essay on best practices for prompt engineering in medium -    
+
+https://medium.com/@devipriyassn.dp/best-practices-for-prompt-engineering-dd1491adf7ed
